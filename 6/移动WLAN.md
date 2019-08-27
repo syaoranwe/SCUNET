@@ -1,6 +1,6 @@
 # 移动CMCC
 
-移动于2011年与学校合作，在学校内修建了CMCC-EDU热点。之后又启动了一个[烂尾工程](http://www.wenming.cn/syjj/dfcz/sc/201612/t20161214_3947441.shtml)，修建了一个CMCC-Young的WiFi，实际上这个WiFi在江安并不能上网。
+移动于2011年与学校合作，在学校内修建了CMCC-EDU热点。之后又启动了一个[烂尾工程](http://www.wenming.cn/syjj/dfcz/sc/201612/t20161214_3947441.shtml)，修建了一个CMCC-Young的WiFi，实际上这个WiFi在江安并不能上网。目前江安西园包括22舍均有CMCC。
 
 至于使用方法，无非是连接WiFi，然后会自动弹出认证界面，在认证界面填写好自己的移动手机号和WLAN密码登录即可。
 
